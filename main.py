@@ -3,7 +3,7 @@ import send_email
 
 topic = "tesla"
 news_api_key = "3d1212fa93cc4f968e52953b4367abff"
-url = f"https://newsapi.org/v2/everything?q={topic}&from=2024-11-19&sortBy=publishedAt&apiKey={news_api_key}&language=en"
+url = f"https://newsapi.org/v2/everything?q={topic}&from=2024-12-08&sortBy=publishedAt&apiKey={news_api_key}&language=en"
 
 
 # Make request
